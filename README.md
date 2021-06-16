@@ -1,5 +1,8 @@
 # [Fish RVA](https://moustache-jake.herokuapp.com/)
 
+Deployed on Heroku at https://moustache-jake.herokuapp.com/.  
+Please allow a minute for the free Heroku server to deploy upon clicking this link.
+
 ## Description
 
 A simple forum where users can post comments, post pictures and details of their catch, link to the local weather report and to a local fishing report.
@@ -25,3 +28,4 @@ node server.js to start the server and run the application
 - Jacob Patton - [jspatton40](https://github.com/jspatton40)
 - Seth McNeace - [mcneace](https://github.com/mcneace)
 - Tawheed Haroon - [Tawharo](https://github.com/Tawharo)
+
