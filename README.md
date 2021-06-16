@@ -29,3 +29,6 @@ node server.js to start the server and run the application
 - Seth McNeace - [mcneace](https://github.com/mcneace)
 - Tawheed Haroon - [Tawharo](https://github.com/Tawharo)
 
+## Note on deployment  
+Deployed product is connected to https://github.com/nealwc/RVA-Fish, not this repo.
+This is a fork of the original repository.
